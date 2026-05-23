@@ -25,8 +25,8 @@
 ## 🎥 Live Demo
 
 <p align="center">
-  <img src="docs/screenshots/image1.png" alt="Pixel glasses filter" width="45%"/>
-  <img src="docs/screenshots/image2.png" alt="Classic sunglasses filter" width="45%"/>
+  <img src="snap_project/docs/screenshots/image1.png" alt="Pixel glasses filter" width="45%"/>
+  <img src="snap_project/docs/screenshots/image2.png" alt="Classic sunglasses filter" width="45%"/>
 </p>
 
 <p align="center"><em>Left: Retro pixel glasses &nbsp;•&nbsp; Right: Classic sunglasses — Press <code>n</code> / <code>p</code> to cycle filters</em></p>
